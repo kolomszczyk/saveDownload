@@ -1,0 +1,2 @@
+dstPath = "~/saveDownload"
+dowPath = "~/Downloads/"
